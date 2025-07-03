@@ -1,0 +1,15 @@
+langgraph
+fastapi
+python-dotenv
+langchain-openai
+pydantic
+routers
+streamlit
+requests
+pydantic-settings
+langchain
+uvicorn
+langsmith
+pyowm
+langchain-community
+duckduckgo-search
