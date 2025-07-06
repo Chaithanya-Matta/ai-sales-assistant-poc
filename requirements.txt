@@ -13,3 +13,11 @@ langsmith
 pyowm
 langchain-community
 duckduckgo-search
+faker
+sqlalchemy
+# psycopg2
+langchain-pinecone
+pinecone
+langchain-core
+rapidfuzz
+psycopg2-binary
