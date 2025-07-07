@@ -1,0 +1,1356 @@
+[
+  {
+    "customer_id": "CUST_1000",
+    "location": "Blackstad, OH",
+    "zip": "18040",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (18040)"
+  },
+  {
+    "customer_id": "CUST_1001",
+    "location": "South Dawnview, IA",
+    "zip": "40006",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (40006)"
+  },
+  {
+    "customer_id": "CUST_1002",
+    "location": "Villarrealland, AR",
+    "zip": "94074",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (94074)"
+  },
+  {
+    "customer_id": "CUST_1003",
+    "location": "Bowersside, MO",
+    "zip": "22036",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (22036)"
+  },
+  {
+    "customer_id": "CUST_1004",
+    "location": "Connieton, TX",
+    "zip": "28115",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (28115)"
+  },
+  {
+    "customer_id": "CUST_1005",
+    "location": "Burchshire, ND",
+    "zip": "95392",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (95392)"
+  },
+  {
+    "customer_id": "CUST_1006",
+    "location": "West Veronicaside, IL",
+    "zip": "38449",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (38449)"
+  },
+  {
+    "customer_id": "CUST_1007",
+    "location": "North Daniel, SD",
+    "zip": "88459",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (88459)"
+  },
+  {
+    "customer_id": "CUST_1008",
+    "location": "New Denisechester, KS",
+    "zip": "18566",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (18566)"
+  },
+  {
+    "customer_id": "CUST_1009",
+    "location": "North Monicabury, GU",
+    "zip": "47076",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (47076)"
+  },
+  {
+    "customer_id": "CUST_1010",
+    "location": "Middletonland, ND",
+    "zip": "25503",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (25503)"
+  },
+  {
+    "customer_id": "CUST_1011",
+    "location": "Stephaniestad, SD",
+    "zip": "52187",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (52187)"
+  },
+  {
+    "customer_id": "CUST_1012",
+    "location": "Bradleyton, TN",
+    "zip": "51083",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Basic Pest Control",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (51083)"
+  },
+  {
+    "customer_id": "CUST_1013",
+    "location": "Rossmouth, MS",
+    "zip": "68688",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (68688)"
+  },
+  {
+    "customer_id": "CUST_1014",
+    "location": "North Sarahmouth, NM",
+    "zip": "89768",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (89768)"
+  },
+  {
+    "customer_id": "CUST_1015",
+    "location": "Nathanborough, NV",
+    "zip": "11433",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (11433)"
+  },
+  {
+    "customer_id": "CUST_1016",
+    "location": "Jacobmouth, SC",
+    "zip": "66659",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Ant Treatment",
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (66659)"
+  },
+  {
+    "customer_id": "CUST_1017",
+    "location": "Amyland, ND",
+    "zip": "36699",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (36699)"
+  },
+  {
+    "customer_id": "CUST_1018",
+    "location": "Jenkinschester, DE",
+    "zip": "96891",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (96891)"
+  },
+  {
+    "customer_id": "CUST_1019",
+    "location": "Port Julie, PR",
+    "zip": "06165",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (06165)"
+  },
+  {
+    "customer_id": "CUST_1020",
+    "location": "Lewisville, NM",
+    "zip": "61993",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (61993)"
+  },
+  {
+    "customer_id": "CUST_1021",
+    "location": "Lake Cynthiafort, CT",
+    "zip": "51074",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (51074)"
+  },
+  {
+    "customer_id": "CUST_1022",
+    "location": "New Patricia, VA",
+    "zip": "72504",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (72504)"
+  },
+  {
+    "customer_id": "CUST_1023",
+    "location": "Dudleyborough, VT",
+    "zip": "66338",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (66338)"
+  },
+  {
+    "customer_id": "CUST_1024",
+    "location": "West Stephenport, SD",
+    "zip": "90960",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (90960)"
+  },
+  {
+    "customer_id": "CUST_1025",
+    "location": "Deborahfort, NV",
+    "zip": "80093",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (80093)"
+  },
+  {
+    "customer_id": "CUST_1026",
+    "location": "West Chelseaville, OH",
+    "zip": "17603",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (17603)"
+  },
+  {
+    "customer_id": "CUST_1027",
+    "location": "South Alanton, AK",
+    "zip": "31948",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (31948)"
+  },
+  {
+    "customer_id": "CUST_1028",
+    "location": "Holmesburgh, MP",
+    "zip": "38663",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (38663)"
+  },
+  {
+    "customer_id": "CUST_1029",
+    "location": "Susanfurt, MH",
+    "zip": "19901",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (19901)"
+  },
+  {
+    "customer_id": "CUST_1030",
+    "location": "Burchmouth, NH",
+    "zip": "66225",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (66225)"
+  },
+  {
+    "customer_id": "CUST_1031",
+    "location": "West Shannon, NH",
+    "zip": "87341",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (87341)"
+  },
+  {
+    "customer_id": "CUST_1032",
+    "location": "New Brittney, MH",
+    "zip": "72629",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (72629)"
+  },
+  {
+    "customer_id": "CUST_1033",
+    "location": "Chelseaville, UT",
+    "zip": "62191",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (62191)"
+  },
+  {
+    "customer_id": "CUST_1034",
+    "location": "Hughesside, NE",
+    "zip": "98479",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Ant Treatment",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (98479)"
+  },
+  {
+    "customer_id": "CUST_1035",
+    "location": "Tamarachester, ID",
+    "zip": "52227",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (52227)"
+  },
+  {
+    "customer_id": "CUST_1036",
+    "location": "Sheltonbury, MT",
+    "zip": "95714",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (95714)"
+  },
+  {
+    "customer_id": "CUST_1037",
+    "location": "Lake Phillip, MH",
+    "zip": "19883",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (19883)"
+  },
+  {
+    "customer_id": "CUST_1038",
+    "location": "Gibsonmouth, MO",
+    "zip": "12092",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (12092)"
+  },
+  {
+    "customer_id": "CUST_1039",
+    "location": "Johnland, AR",
+    "zip": "52098",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (52098)"
+  },
+  {
+    "customer_id": "CUST_1040",
+    "location": "West Charles, CA",
+    "zip": "98870",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (98870)"
+  },
+  {
+    "customer_id": "CUST_1041",
+    "location": "Benjaminland, PW",
+    "zip": "97624",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (97624)"
+  },
+  {
+    "customer_id": "CUST_1042",
+    "location": "Port Roberto, MN",
+    "zip": "27105",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (27105)"
+  },
+  {
+    "customer_id": "CUST_1043",
+    "location": "South Adam, MA",
+    "zip": "45012",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (45012)"
+  },
+  {
+    "customer_id": "CUST_1044",
+    "location": "South William, AR",
+    "zip": "36295",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (36295)"
+  },
+  {
+    "customer_id": "CUST_1045",
+    "location": "Port Jocelyn, NH",
+    "zip": "44690",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (44690)"
+  },
+  {
+    "customer_id": "CUST_1046",
+    "location": "Richardton, WA",
+    "zip": "49614",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (49614)"
+  },
+  {
+    "customer_id": "CUST_1047",
+    "location": "Christopherland, MO",
+    "zip": "50796",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (50796)"
+  },
+  {
+    "customer_id": "CUST_1048",
+    "location": "Jonathanside, NH",
+    "zip": "56145",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (56145)"
+  },
+  {
+    "customer_id": "CUST_1049",
+    "location": "Romeroburgh, ND",
+    "zip": "23801",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (23801)"
+  },
+  {
+    "customer_id": "CUST_1050",
+    "location": "Robertafurt, SC",
+    "zip": "38648",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (38648)"
+  },
+  {
+    "customer_id": "CUST_1051",
+    "location": "Adamburgh, ND",
+    "zip": "39046",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (39046)"
+  },
+  {
+    "customer_id": "CUST_1052",
+    "location": "West Adrianside, IA",
+    "zip": "21517",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (21517)"
+  },
+  {
+    "customer_id": "CUST_1053",
+    "location": "West Tiffany, SD",
+    "zip": "50896",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (50896)"
+  },
+  {
+    "customer_id": "CUST_1054",
+    "location": "East Sarafurt, MA",
+    "zip": "64435",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (64435)"
+  },
+  {
+    "customer_id": "CUST_1055",
+    "location": "Jenniferfurt, MH",
+    "zip": "37230",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (37230)"
+  },
+  {
+    "customer_id": "CUST_1056",
+    "location": "North Robert, AL",
+    "zip": "89474",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (89474)"
+  },
+  {
+    "customer_id": "CUST_1057",
+    "location": "Port Emma, MD",
+    "zip": "02476",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion",
+      "Termite Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (02476)"
+  },
+  {
+    "customer_id": "CUST_1058",
+    "location": "South Donnaberg, AZ",
+    "zip": "35744",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (35744)"
+  },
+  {
+    "customer_id": "CUST_1059",
+    "location": "New Kathleen, OH",
+    "zip": "55361",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (55361)"
+  },
+  {
+    "customer_id": "CUST_1060",
+    "location": "Brewermouth, NY",
+    "zip": "44439",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (44439)"
+  },
+  {
+    "customer_id": "CUST_1061",
+    "location": "New Shawn, NM",
+    "zip": "25264",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (25264)"
+  },
+  {
+    "customer_id": "CUST_1062",
+    "location": "Travistown, CA",
+    "zip": "39663",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (39663)"
+  },
+  {
+    "customer_id": "CUST_1063",
+    "location": "Matthewburgh, MD",
+    "zip": "70735",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (70735)"
+  },
+  {
+    "customer_id": "CUST_1064",
+    "location": "West Pattyburgh, NJ",
+    "zip": "86213",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (86213)"
+  },
+  {
+    "customer_id": "CUST_1065",
+    "location": "South Carolinemouth, MO",
+    "zip": "59880",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (59880)"
+  },
+  {
+    "customer_id": "CUST_1066",
+    "location": "South Deanna, ID",
+    "zip": "46456",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (46456)"
+  },
+  {
+    "customer_id": "CUST_1067",
+    "location": "Melissaland, OH",
+    "zip": "27838",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (27838)"
+  },
+  {
+    "customer_id": "CUST_1068",
+    "location": "Erinburgh, AK",
+    "zip": "52810",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (52810)"
+  },
+  {
+    "customer_id": "CUST_1069",
+    "location": "Tinaville, SC",
+    "zip": "81496",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (81496)"
+  },
+  {
+    "customer_id": "CUST_1070",
+    "location": "South William, MS",
+    "zip": "42049",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (42049)"
+  },
+  {
+    "customer_id": "CUST_1071",
+    "location": "Jamieburgh, AL",
+    "zip": "43181",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (43181)"
+  },
+  {
+    "customer_id": "CUST_1072",
+    "location": "Careyside, KS",
+    "zip": "48291",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment",
+      "Termite Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (48291)"
+  },
+  {
+    "customer_id": "CUST_1073",
+    "location": "Thomasview, OH",
+    "zip": "22164",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (22164)"
+  },
+  {
+    "customer_id": "CUST_1074",
+    "location": "Dianamouth, CA",
+    "zip": "44594",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (44594)"
+  },
+  {
+    "customer_id": "CUST_1075",
+    "location": "West Jenniferfurt, MS",
+    "zip": "56792",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (56792)"
+  },
+  {
+    "customer_id": "CUST_1076",
+    "location": "South Michellehaven, KS",
+    "zip": "14469",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (14469)"
+  },
+  {
+    "customer_id": "CUST_1077",
+    "location": "Nunezhaven, OR",
+    "zip": "48737",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Termite Control",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (48737)"
+  },
+  {
+    "customer_id": "CUST_1078",
+    "location": "Lake Alexis, PR",
+    "zip": "57568",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (57568)"
+  },
+  {
+    "customer_id": "CUST_1079",
+    "location": "North Matthewside, LA",
+    "zip": "58371",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (58371)"
+  },
+  {
+    "customer_id": "CUST_1080",
+    "location": "Ryanhaven, HI",
+    "zip": "13820",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (13820)"
+  },
+  {
+    "customer_id": "CUST_1081",
+    "location": "Lake Rebecca, GA",
+    "zip": "96252",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion",
+      "Ant Treatment"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (96252)"
+  },
+  {
+    "customer_id": "CUST_1082",
+    "location": "Sanchezport, IL",
+    "zip": "07951",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (07951)"
+  },
+  {
+    "customer_id": "CUST_1083",
+    "location": "South Eric, OR",
+    "zip": "11030",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Increased rodent complaints",
+    "recommended_upsell": "Rodent Defense Package",
+    "reason": "Increased rodent complaints in your area (11030)"
+  },
+  {
+    "customer_id": "CUST_1084",
+    "location": "South Christinaland, GA",
+    "zip": "73077",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (73077)"
+  },
+  {
+    "customer_id": "CUST_1085",
+    "location": "Penaland, MO",
+    "zip": "40817",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (40817)"
+  },
+  {
+    "customer_id": "CUST_1086",
+    "location": "South Joy, TX",
+    "zip": "75683",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (75683)"
+  },
+  {
+    "customer_id": "CUST_1087",
+    "location": "Julieburgh, VI",
+    "zip": "73217",
+    "property_type": "Commercial",
+    "season": "Summer",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (73217)"
+  },
+  {
+    "customer_id": "CUST_1088",
+    "location": "South Melanie, SC",
+    "zip": "12402",
+    "property_type": "Commercial",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (12402)"
+  },
+  {
+    "customer_id": "CUST_1089",
+    "location": "Mcintoshberg, IN",
+    "zip": "84100",
+    "property_type": "Commercial",
+    "season": "Fall",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (84100)"
+  },
+  {
+    "customer_id": "CUST_1090",
+    "location": "Lake Dylanmouth, FL",
+    "zip": "60923",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Basic Pest Control",
+      "Termite Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (60923)"
+  },
+  {
+    "customer_id": "CUST_1091",
+    "location": "West Emily, MO",
+    "zip": "75385",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (75385)"
+  },
+  {
+    "customer_id": "CUST_1092",
+    "location": "Micheleville, DC",
+    "zip": "17441",
+    "property_type": "Residential",
+    "season": "Fall",
+    "current_services": [
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (17441)"
+  },
+  {
+    "customer_id": "CUST_1093",
+    "location": "Lisaview, VI",
+    "zip": "12956",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Ant Treatment",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (12956)"
+  },
+  {
+    "customer_id": "CUST_1094",
+    "location": "Heatherport, MO",
+    "zip": "52581",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Termite Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (52581)"
+  },
+  {
+    "customer_id": "CUST_1095",
+    "location": "Port Bethborough, CT",
+    "zip": "29146",
+    "property_type": "Commercial",
+    "season": "Spring",
+    "current_services": [
+      "Ant Treatment",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (29146)"
+  },
+  {
+    "customer_id": "CUST_1096",
+    "location": "New Sarahfort, CO",
+    "zip": "18683",
+    "property_type": "Residential",
+    "season": "Winter",
+    "current_services": [
+      "Rodent Exclusion",
+      "Termite Control"
+    ],
+    "pest_trend": "High mosquito activity",
+    "recommended_upsell": "Mosquito Monthly Plan",
+    "reason": "High mosquito activity in your area (18683)"
+  },
+  {
+    "customer_id": "CUST_1097",
+    "location": "Ryanbury, UT",
+    "zip": "37702",
+    "property_type": "Residential",
+    "season": "Summer",
+    "current_services": [
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Rising termite inspections",
+    "recommended_upsell": "Termite Barrier Protection",
+    "reason": "Rising termite inspections in your area (37702)"
+  },
+  {
+    "customer_id": "CUST_1098",
+    "location": "Jackville, NJ",
+    "zip": "77263",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Termite Control",
+      "Basic Pest Control"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (77263)"
+  },
+  {
+    "customer_id": "CUST_1099",
+    "location": "Kenthaven, CT",
+    "zip": "29864",
+    "property_type": "Residential",
+    "season": "Spring",
+    "current_services": [
+      "Basic Pest Control",
+      "Rodent Exclusion"
+    ],
+    "pest_trend": "Ant infestations reported nearby",
+    "recommended_upsell": "Comprehensive Ant Treatment",
+    "reason": "Ant infestations reported nearby in your area (29864)"
+  }
+]
