@@ -6,18 +6,21 @@ from datetime import datetime
 from prompts_library import supervisor_prompt
 from config.model_config import llm
 from langgraph.graph import END
+import logging
 
 from utils.message_converter import convert_state_messages_to_llm_format
+
+logger = logging.getLogger(__name__)
 
 class RouteDecision(BaseModel):
     next: Literal["upsell", "address", "chat", "FINISH"]
 
 def supervisor_agent(state: State) -> Command[Literal["upsell", "address", "chat", "__end__"]]:
 
-    print("****************************Entered Supervisor Agent*************************************")
+    logger.info("Entered Supervisor Agent")
 
     if state.next_agent == "FINISH":
-        print("✅ Received FINISH signal. Exiting...")
+        logger.info("✅ Received FINISH signal. Exiting...")
         return Command(goto=END, update={"messages": state.messages})
 
     messages = [{"role": m.role, "content": m.content} for m in state.messages]
@@ -27,17 +30,17 @@ def supervisor_agent(state: State) -> Command[Literal["upsell", "address", "chat
     router_llm = llm.with_structured_output(RouteDecision)
     result = router_llm.invoke(messages)
     
-    print("*********************************************************************************")
-    print(result)
-    print("*********************************************************************************")
+    logger.debug("*"*60)
+    logger.debug(result)
+    logger.debug("*"*60)
     next_agent = result.next
 
     state.messages.append(
         Message(role="supervisor", content=f"Routing to '{next_agent}' based on user input.")
     )
 
-    print("********************************Below is next agent***************************************")
-    print(next_agent)
+    logger.debug("Below is next agent")
+    logger.debug(next_agent)
 
     if next_agent == "FINISH":
         next_agent = END

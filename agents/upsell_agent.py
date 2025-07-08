@@ -6,6 +6,9 @@ import json
 import os
 import re
 from config.model_config import llm
+import logging
+
+logger = logging.getLogger(__name__)
 
 # Load synthetic upsell data
 UPS_DATA_PATH = os.path.join(os.path.dirname(__file__), "../data/synthetic_upsell_data.json")
@@ -42,6 +45,8 @@ def upsell_recommendation_agent(state: State) -> Command[Literal["supervisor"]]:
         f"For customer ID **{selected['customer_id']}**, located in {selected['location']} (ZIP: {selected['zip']}), "
         f"we recommend our **{selected['recommended_upsell']}**. Reason: {selected['reason']}"
     )
+
+    logger.debug("Upsell recommendation selected: %s", selected)
 
     state.messages.append(Message(role="upsell", content=upsell_message))
 

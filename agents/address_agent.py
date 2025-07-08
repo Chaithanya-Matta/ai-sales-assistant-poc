@@ -9,6 +9,9 @@ from config.postgres_config import POSTGRES_ENGINE
 from sqlalchemy import text
 import json
 from models.address import ParsedAddress, RetrievedAddress, RetrievedAddressScore
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 MAX_RETRIEVAL_ATTEMPTS = 2
@@ -44,12 +47,10 @@ def llm_match_address(parsed_address: ParsedAddress, candidates: List[RetrievedA
     """
     parsed_json = parsed_address.model_dump_json(indent=2)
     candidates_json = json.dumps([c.model_dump() for c in candidates], indent=2)
-
-
-    print("****************************Parsed json*************************************")
-    print(parsed_json)
-    print("****************************Retrieved json*************************************")
-    print(candidates_json)
+    logger.debug("****************************Parsed json*******************************")
+    logger.debug(parsed_json)
+    logger.debug("****************************Retrieved json***************************")
+    logger.debug(candidates_json)
 
     user_msg = f"""
     You are an address matching expert. Your task is to find the single best match for a user's address from a list of candidate addresses retrieved from RAG similarity search.
@@ -105,7 +106,7 @@ def llm_match_address(parsed_address: ParsedAddress, candidates: List[RetrievedA
 
 # Step 4: Address agent
 def address_agent(state: State) -> Command[Literal["address", "supervisor"]]:
-    print("****************************Entered Address Agent*************************************")
+    logger.info("Entered Address Agent")
     query = state.query
     attempts = getattr(state, "retrieval_attempts", 0)
     parsed = parse_user_address(query)
@@ -122,16 +123,15 @@ def address_agent(state: State) -> Command[Literal["address", "supervisor"]]:
     retrieved = vectorstore.similarity_search(query, k=10, filter=filter_dict)
     ids = [doc.id for doc in retrieved]
     retrieved = fetch_full_addresses_by_ids(ids)
-
-    print("****************************Parsed input address*************************************")
-    print(parsed)
-    print("****************************Retrieved addresses*************************************")
-    print(retrieved)
+    logger.debug("Parsed input address")
+    logger.debug(parsed)
+    logger.debug("Retrieved addresses")
+    logger.debug(retrieved)
 
     # Step 2: LLM match
     llm_matches = llm_match_address(parsed, retrieved)
-    print("****************************LLM matches*************************************")
-    print(llm_matches)
+    logger.debug("LLM matches")
+    logger.debug(llm_matches)
 
     if llm_matches:
         state.messages.append(Message(role="address", content=f"Found address matches (LLM): {llm_matches}"))
